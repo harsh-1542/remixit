@@ -1,0 +1,6 @@
+{
+  "name": "Remix - Website Discovery & Inspiration",
+  "description": "Discover exceptional websites, explore design architectures, and turn great references into original website projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
